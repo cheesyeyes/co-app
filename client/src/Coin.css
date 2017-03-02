@@ -1,0 +1,12 @@
+.Coin{
+  margin: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 5em;
+  height: 5em;
+  background-color: gold;
+
+  border-radius: 50%;
+}
